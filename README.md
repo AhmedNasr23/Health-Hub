@@ -72,11 +72,11 @@ The platform provides multiple portals tailored to different hospital roles:
 ## ⚙️ Installation
 
 To deploy the project in your ServiceNow instance:
-
-1. Navigate to **System Update Sets → Retrieved Update Sets**
-2. Import the provided **XML Update Set**
-3. Preview the Update Set to validate changes
-4. Commit the Update Set
+1. Download this file that called update-set.zip
+2. Navigate to **System Update Sets → Retrieved Update Sets**
+3. Import the provided **XML Update Set**
+4. Preview the Update Set to validate changes
+5. Commit the Update Set
 
 ---
 
